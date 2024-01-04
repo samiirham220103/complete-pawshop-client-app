@@ -4,26 +4,26 @@ const categoryItems = [
   {
     id: 1,
     title: "Makanan",
-    despriction: "(86 dishes)",
+    despriction: "(86 Makanan)",
     image: "/images/home/category/Makanan.jpg",
   },
   {
     id: 2,
     title: "Obat & Vitamin",
-    despriction: "(12 break fast)",
+    despriction: "(12 Obat & Vitamin)",
     image: "/images/home/category/obat.jpg",
   },
   {
     id: 3,
     title: "Mainan",
-    despriction: "(48 dessert)",
-    image: "/images/home/category/img3.png",
+    despriction: "(Mainan)",
+    image: "/images/home/category/mainan.jpg",
   },
   {
     id: 4,
     title: "Browse All",
     despriction: "(255 Items)",
-    image: "/images/home/category/img4.png",
+    image: "/images/home/category/browseall.jpg",
   },
 ];
 
