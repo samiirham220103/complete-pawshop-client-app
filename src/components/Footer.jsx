@@ -25,7 +25,7 @@ const Footer = () => {
         <nav>
           <header className="footer-title">Contact Us</header>
           <a className="link link-hover">pawshop@email.com</a>
-          <a className="link link-hover">+64 958 248 966</a>
+          <a className="link link-hover">+62 831 0014 4532</a>
           <a className="link link-hover">Social media</a>
         </nav>
       </footer>
